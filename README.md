@@ -57,6 +57,8 @@ Looking for more? Contact us at [team@circavictor.com](mailto:team@circavictor.c
 
 For quicker reporting and easier consumation, the data has been broken down into separate csv files by state.
 
+*note*: in order to reduce the csv file size, recipient committees have been abstracted down to their FEC id.
+
 * Contributions by State
   * individual id - contributor individual id
   * location id - the contribution origin location. multiple individuals may be at the same location
