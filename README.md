@@ -1,6 +1,8 @@
 # README
 
-This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and use this information as you see fit. All we ask is that you please cite us in your investigative reporting. Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com).
+This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and use this information as you see fit. All we ask is that you please cite us in your investigative reporting.
+
+Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com).
 
 ## By the Numbers
 
@@ -40,6 +42,10 @@ This repository contains curated bulk data and sample analysis provided by [Circ
 
 ## Why?
 
+We noticed that there is a huge gap in 
+
+
+We feel that it's every citizen's right to look at this data.
 
 ## Who?
 
@@ -55,25 +61,24 @@ For quicker reporting and easier consumation, the data has been broken down into
   * first name - contributor's first initial
   * last name - contributor's last
   * amount - contribution amount
-  * contributed date
+  * contributed date - the date that this contribution was made
   * recipient committee fec id - the FEC committee id of the 
   * transction id - the transaction id filed by ActBlue
   * contribution aggregate - total aggregate this individual has given
-  * form type
   * memo - memo text for the contribution. may contain additional insights
-  * zip code
-  * state
+  * zip code - the zipcode where contribution originated
+  * state - the state where the contribution came from
 * Recipient Committees
-  * fec id
-  * name
-  * candidate fec id
-  * candidate name
-  * affilation
-  * office
-  * state
-  * district
-  * incumbent or challenger?
-  * is authorized committee?
-  * is principal committee?
+  * fec id - the committee FEC id
+  * name - committee name
+  * candidate fec id - if attached to a candidate, the candidate's FEC id
+  * candidate name - name of candidate attached to this committee
+  * affilation - candidate / committeee affiliation. democrat, republican, etc.
+  * office - office which this candidate holds or is seeking
+  * state - state where this office is located
+  * district - state district that this candidate is representing if House candidate
+  * incumbent or challenger? - is this candidate an incumbent (i) or challenger (c)
+  * is authorized committee? - is this a committee authorized by the candidate
+  * is principal committee? - is this a principal committee directly attached to a candidate
 
 
