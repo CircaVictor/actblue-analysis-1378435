@@ -42,7 +42,7 @@ Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com
 
 ## Why?
 
-Currently, there exists a HUGE gap in accurate timely reporting around all Campaign Finance. We feel that it's every citizen's right to be accurately informed in a timely manner. Exporting this dataset to the public is a statement to that commitment.
+Currently, there exists a **HUGE** gap in accurate timely reporting around all Campaign Finance. Why? We feel that it's every citizen's right to be accurately informed in a timely manner. Exporting this dataset to the public is a statement to that commitment.
 
 ## Who?
 
