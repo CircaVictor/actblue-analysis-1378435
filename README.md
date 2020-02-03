@@ -31,6 +31,8 @@ Need more in-depth analysis? Email us at [team@circavictor.com](mailto:team@circ
 **unique zipcodes**: 39,359
 
 ## Analysis
+  * [Principal Committees by overall total](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/principal-committees-overall.csv)
+  * [Principal Committees by avg](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/principal-committee-avg.csv)
   * [Contributors by overall total](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/contributors-overall.csv)
   * [Contributors by average >= 5 contributions](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/contributors-avg.csv)
   * [Recipient Committees by overall total](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/committees-overall.csv)
