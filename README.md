@@ -1,8 +1,8 @@
 # ActBlue 1378435
 
-This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and use this information as you see fit. All we ask is that you please cite us in your investigative reporting.
+This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and use this information as you see fit. All we ask is that you please cite us in your investigative reporting. Our goal is to increase data comprehension through quality analysis.
 
-Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com).
+Need more in-depth analysis? Email us at [team@circavictor.com](mailto:team@circavictor.com).
 
 ## By the Numbers
 
@@ -51,7 +51,7 @@ There currently exists a **HUGE** gap in accurate timely reporting around all th
 
 Hello, nice to meet you, we are team [Circa Victor](https://circavictor.com). 
 
-Need more in-depth analysis? Contact us at [team@circavictor.com](mailto:team@circavictor.com).
+Looking for more? Contact us at [team@circavictor.com](mailto:team@circavictor.com).
 
 ## Data Breakdown
 
