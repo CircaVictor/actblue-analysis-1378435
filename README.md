@@ -1,4 +1,4 @@
-# ActBlue Analyis 1378435
+# ActBlue #1378435
 
 This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and use this information as you see fit. All we ask is that you please cite us in your investigative reporting.
 
@@ -6,7 +6,9 @@ Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com
 
 ## By the Numbers
 
-**FECfile**: 1378435
+**Committee**: [ActBlue](https://secure.actblue.com/)
+
+**FECfile**: [1378435](https://www.fec.gov/data/committee/C00401224/?tab=filings)
 
 **filed**: January 31st, 2020
 
