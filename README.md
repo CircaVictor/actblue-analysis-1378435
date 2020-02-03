@@ -1,6 +1,6 @@
 # README
 
-This repository contains curated bulk data and sample analysis provided by Circa Victor.
+This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and use this information as you see fit. All we ask is that you please cite us in your investigative reporting. Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com).
 
 ## By the Numbers
 
@@ -26,6 +26,25 @@ This repository contains curated bulk data and sample analysis provided by Circa
 
 **unique zipcodes**:
 
+## Sample Analysis
+  * Contributors by overall total
+  * Contributors by average >= 5 contributions
+  * Recipient Committees by overall total
+  * Recipient Committees by average
+  * States by overall total
+  * States by average
+  * Zipcodes by overall total
+  * Zipcodes by average >= 250 contributions
+  * Direct contributions to ActBlue
+  * Future nominee contributions
+
+## Why?
+
+
+## Who?
+
+Hello, nice to meet you. We are [Circa Victor](https://circavictor.com). Need more in-depth analysis? Contact us at [team@circavictor.com](mailto:team@circavictor.com).
+
 ## Data Breakdown
 
 For quicker reporting and easier consumation, the data has been broken down into separate csv files by state.
@@ -33,16 +52,15 @@ For quicker reporting and easier consumation, the data has been broken down into
 * Contributions by State
   * individual id - contributor individual id
   * location id - the contribution origin location. multiple individuals may be at the same location
-  * first name: contributor's first initial
-  * last name: contributor's last
-  * amount
+  * first name - contributor's first initial
+  * last name - contributor's last
+  * amount - contribution amount
   * contributed date
-  * recipient committee fec id
-  * transction id
-  * contribution aggregate
-  * in kind
+  * recipient committee fec id - the FEC committee id of the 
+  * transction id - the transaction id filed by ActBlue
+  * contribution aggregate - total aggregate this individual has given
   * form type
-  * memo
+  * memo - memo text for the contribution. may contain additional insights
   * zip code
   * state
 * Recipient Committees
@@ -57,13 +75,5 @@ For quicker reporting and easier consumation, the data has been broken down into
   * incumbent or challenger?
   * is authorized committee?
   * is principal committee?
-
-## Sample Analysis
-
-## Why?
-
-
-## Who?
-
 
 
