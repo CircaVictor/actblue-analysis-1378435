@@ -134,7 +134,7 @@ WITH grouped_contributions AS (
 )
 SELECT a.name,
        state,
-       zip_code
+       zip_code,
        transactions,
        total,
        avg_contribution
@@ -171,7 +171,7 @@ WITH grouped_contributions AS (
 )
 SELECT a.name,
        state,
-       zip_code
+       zip_code,
        transactions,
        total,
        avg_contribution
@@ -365,10 +365,10 @@ SELECT count(*) AS transactions,
 
 -- Future nominee contributions
 
-SELECT count(*) AS transactions,
-       sum(amount)::money AS total,
-       coalesce(future.candidate,
+SELECT coalesce(future.candidate,
                 'NONE') AS future_candidate,
+       count(*) AS transactions,
+       sum(amount)::money AS total,
        avg(amount)::money AS avg_contribution
   FROM ab_1378435_contributions_sorted c
        LEFT JOIN LATERAL (SELECT (regexp_matches(memo, 'EARMARKED FOR DEMOCRATIC NOMINEE FOR (.+) HELD'))[1] AS candidate) AS future
