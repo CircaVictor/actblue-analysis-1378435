@@ -81,7 +81,7 @@ For quicker reporting and easier consumation, the data has been broken down into
   * office - office which this candidate holds or is seeking
   * state - state where this office is located
   * district - state district that this candidate is representing if House candidate
-  * incumbent or challenger? - is this candidate an incumbent (i) or challenger (c)
+  * incumbent or challenger? - is this candidate an (i) incumbent, (c) challenger or (o) open seat
   * is authorized committee? - is this a committee authorized by the candidate
   * is principal committee? - is this a principal committee directly attached to a candidate
 
