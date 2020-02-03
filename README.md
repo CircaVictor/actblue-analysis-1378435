@@ -46,7 +46,7 @@ Currently, there exists a HUGE gap in accurate timely reporting around all Campa
 
 ## Who?
 
-Hello, nice to meet you. We are [Circa Victor](https://circavictor.com). 
+Hello, nice to meet you, we are team [Circa Victor](https://circavictor.com). 
 
 Need more in-depth analysis? Contact us at [team@circavictor.com](mailto:team@circavictor.com).
 
