@@ -1,6 +1,6 @@
 # ActBlue 1378435
 
-This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and report on this information as you see fit. All we ask is that you please cite us in your investigative articles. Our goal is to deliver actionable data through increased comprehension and quality analysis.
+This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and report on this information as you see fit. All we ask is that you please cite us in your investigative journals. Our goal is to deliver actionable data through increased comprehension and quality analysis.
 
 Need more in-depth analysis? Email us at [team@circavictor.com](mailto:team@circavictor.com).
 
