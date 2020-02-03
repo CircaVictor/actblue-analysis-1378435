@@ -30,7 +30,7 @@ Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com
 
 **unique zipcodes**:
 
-## Sample Analysis
+## Analysis
   * Contributors by overall total
   * Contributors by average >= 5 contributions
   * Recipient Committees by overall total
