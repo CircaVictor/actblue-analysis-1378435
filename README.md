@@ -41,6 +41,7 @@ Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com
   * Zipcodes by average >= 250 contributions
   * Direct contributions to ActBlue
   * Future nominee contributions
+  * Form types breakdown
 
 ## Why?
 
