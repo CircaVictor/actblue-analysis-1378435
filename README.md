@@ -16,19 +16,19 @@ Need more in-depth analysis? Email us at [team@circavictor.com](mailto:team@circ
 
 **data points**: 44,627,333
 
-**contributions**: 24,721,651
+**contributions**: 24,656,453
 
-**volume**:
+**volume**: $525,124,217.30
 
-**contribution avg**:
+**contribution avg**: $21.30
 
-**unique recipient committees**:
+**unique recipient committees**: 1,844
 
-**unique contributors**:
+**unique individuals**: 4,422,861
 
-**unique locations**:
+**unique locations**: 3,875,357
 
-**unique zipcodes**:
+**unique zipcodes**: 39,359
 
 ## Analysis
   * Contributors by overall total
