@@ -1,4 +1,4 @@
-# ActBlue 2019 Year End Analysis Report
+# ActBlue 2019 Year End Analysis
 
 This repository contains curated bulk data and sample analysis provided by [Circa Victor](https://circavictor.com). Please feel free to share and report on this information as you see fit. All we ask is that you please cite us in your investigative journals. Our goal is to deliver actionable data through increased comprehension and quality analysis.
 
