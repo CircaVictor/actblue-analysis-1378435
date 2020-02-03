@@ -55,11 +55,11 @@ Looking for more? Contact us at [team@circavictor.com](mailto:team@circavictor.c
 
 ## Data Breakdown
 
-For quicker reporting and easier consumation, the data has been broken down into separate csv files by state.
+For quicker reporting and easier consumation, the data has been broken down into separate [csv files by state](https://github.com/CircaVictor/actblue-analysis-1378435/tree/master/data/states).
 
 *fyi*: in order to reduce the csv file size, recipient committees have been abstracted down to their FEC id.
 
-* Contributions by State
+* [Contributions by State](https://github.com/CircaVictor/actblue-analysis-1378435/tree/master/data/states)
   * individual id - contributor individual id
   * location id - the contribution origin location. multiple individuals may be at the same location
   * first name - contributor's first initial
@@ -72,7 +72,7 @@ For quicker reporting and easier consumation, the data has been broken down into
   * memo - memo text for the contribution. may contain additional insights
   * zip code - the zipcode where contribution originated
   * state - the state where the contribution came from
-* Recipient Committees
+* [Recipient Committees](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/data/recipient_committees.csv)
   * fec id - the committee FEC id. you can match this field to the recipient commitee fec id in state contributions
   * name - committee name
   * candidate fec id - if attached to a candidate, the candidate's FEC id
