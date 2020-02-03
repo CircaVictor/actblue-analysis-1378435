@@ -55,7 +55,7 @@ Looking for more? Contact us at [team@circavictor.com](mailto:team@circavictor.c
 
 ## Data Breakdown
 
-For quicker reporting and easier consumation, the data has been broken down into separate [csv files by state](https://github.com/CircaVictor/actblue-analysis-1378435/tree/master/data/states). Take a look at the [state volume breakdown](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/states-overall.csv) to see how many transactions are available for your state.
+For quicker reporting and easier consumation, the data has been broken down into separate [csv files by state](https://github.com/CircaVictor/actblue-analysis-1378435/tree/master/data/states). Take a look at the [state volume analysis](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/states-overall.csv) to see how many transactions are available for your state.
 
 *fyi*: in order to reduce the csv file size, recipient committees have been abstracted down to their FEC id.
 
