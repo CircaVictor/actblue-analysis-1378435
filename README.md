@@ -31,17 +31,17 @@ Need more in-depth analysis? Email us at [team@circavictor.com](mailto:team@circ
 **unique zipcodes**: 39,359
 
 ## Analysis
-  * Contributors by overall total
-  * Contributors by average >= 5 contributions
-  * Recipient Committees by overall total
-  * Recipient Committees by average
-  * States by overall total
-  * States by average
-  * Zipcodes by overall total
-  * Zipcodes by average >= 250 contributions
-  * Direct contributions to ActBlue
-  * Future nominee contributions
-  * Form types breakdown
+  * [Contributors by overall total](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/contributors-overall.csv)
+  * [Contributors by average >= 5 contributions](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/contributors-avg.csv)
+  * [Recipient Committees by overall total](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/committees-overall.csv)
+  * [Recipient Committees by average](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/committees-avg.csv)
+  * [States by overall total](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/states-overall.csv)
+  * [States by average](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/states-avg.csv)
+  * [Zipcodes by overall total](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/zip_codes-overall.csv)
+  * [Zipcodes by average >= 250 contributions](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/zip_codes-avg.csv)
+  * [Direct contributions to ActBlue](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/actblue-contributions.csv)
+  * [Future nominee contributions](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/actblue-future-nominees.csv)
+  * [Form types breakdown](https://github.com/CircaVictor/actblue-analysis-1378435/blob/master/analysis/form_types.csv)
 
 ## Why?
 
