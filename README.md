@@ -68,7 +68,7 @@ For quicker reporting and easier consumation, the data has been broken down into
   * zip code - the zipcode where contribution originated
   * state - the state where the contribution came from
 * Recipient Committees
-  * fec id - the committee FEC id
+  * fec id - the committee FEC id. you can match this field to the recipient commitee fec id in state contributions
   * name - committee name
   * candidate fec id - if attached to a candidate, the candidate's FEC id
   * candidate name - name of candidate attached to this committee
