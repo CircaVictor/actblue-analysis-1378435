@@ -42,14 +42,13 @@ Looking for more? Email us at [team@circavictor.com](mailto:team@circavictor.com
 
 ## Why?
 
-We noticed that there is a huge gap in 
-
-
-We feel that it's every citizen's right to look at this data.
+Currently, there exists a HUGE gap in accurate timely reporting around all Campaign Finance. We feel that it's every citizen's right to be accurately informed in a timely manner. Exporting this dataset to the public is a statement to that commitment.
 
 ## Who?
 
-Hello, nice to meet you. We are [Circa Victor](https://circavictor.com). Need more in-depth analysis? Contact us at [team@circavictor.com](mailto:team@circavictor.com).
+Hello, nice to meet you. We are [Circa Victor](https://circavictor.com). 
+
+Need more in-depth analysis? Contact us at [team@circavictor.com](mailto:team@circavictor.com).
 
 ## Data Breakdown
 
